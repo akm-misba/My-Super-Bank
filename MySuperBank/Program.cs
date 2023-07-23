@@ -17,6 +17,11 @@ namespace MySuperBank
             Console.WriteLine(account.GetAccountHistory());
 
 
+
+            Console.WriteLine("sahim",600);
+            Console.WriteLine($"Account {account.Number} was created for { account.Owner} with {account.Balance}");
+
+
         }
     }
 }
