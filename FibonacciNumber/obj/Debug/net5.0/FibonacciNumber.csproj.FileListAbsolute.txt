@@ -1,0 +1,16 @@
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.exe
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.deps.json
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.runtimeconfig.json
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.runtimeconfig.dev.json
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.dll
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\ref\FibonacciNumber.dll
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\bin\Debug\net5.0\FibonacciNumber.pdb
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.AssemblyInfoInputs.cache
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.AssemblyInfo.cs
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.dll
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\ref\FibonacciNumber.dll
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.pdb
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.genruntimeconfig.cache
+C:\Users\misba\source\repos\MySuperBank\FibonacciNumber\obj\Debug\net5.0\FibonacciNumber.csproj.AssemblyReference.cache

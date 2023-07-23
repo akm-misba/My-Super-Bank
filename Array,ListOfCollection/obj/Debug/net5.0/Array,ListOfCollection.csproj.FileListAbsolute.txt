@@ -1,0 +1,16 @@
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.exe
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.deps.json
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.runtimeconfig.json
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.runtimeconfig.dev.json
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.dll
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\ref\Array,ListOfCollection.dll
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\bin\Debug\net5.0\Array,ListOfCollection.pdb
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.csproj.AssemblyReference.cache
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.AssemblyInfoInputs.cache
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.AssemblyInfo.cs
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.csproj.CoreCompileInputs.cache
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.dll
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\ref\Array,ListOfCollection.dll
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.pdb
+C:\Users\misba\source\repos\MySuperBank\Array,ListOfCollection\obj\Debug\net5.0\Array,ListOfCollection.genruntimeconfig.cache

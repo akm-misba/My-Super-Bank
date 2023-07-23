@@ -1,0 +1,16 @@
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.exe
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.deps.json
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.runtimeconfig.json
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.runtimeconfig.dev.json
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.dll
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\ref\MySuperBank.dll
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\bin\Debug\net5.0\MySuperBank.pdb
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.AssemblyInfo.cs
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.dll
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\ref\MySuperBank.dll
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.pdb
+C:\Users\misba\source\repos\MySuperBank\MySuperBank\obj\Debug\net5.0\MySuperBank.genruntimeconfig.cache
